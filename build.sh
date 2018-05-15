@@ -1,0 +1,1 @@
+g++ -o main main.cc people.cc student.cc
